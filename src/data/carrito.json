@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "timestamp": "5/4/2022 - 6:35:01 PM",
+    "listaP": [
+      {
+        "title": "Química. Prueba de acceso a Ciclo Formativos de Grado Superior",
+        "autor": "Nerea Pérez - Gorka Arreche",
+        "description": "Libro buenisimo que deberias comprar.",
+        "price": 3326.3,
+        "thumbnail": "https://www.marcombo.com/wp-content/uploads/2017/10/9788426722164.jpg",
+        "editorial": "Marcombo",
+        "pages": 172,
+        "edition": 1,
+        "publication-date": "15/05/2015",
+        "isbn": 9788426722164,
+        "formato": "17x24 cms",
+        "id": 5,
+        "quantity": 2
+      }
+    ]
+  }
+]
